@@ -1,0 +1,22 @@
+
+.user-list {
+    margin-top: 20px;
+  }
+  
+  .user-list-item {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .user-list-item h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .user-list-item p {
+    margin: 0;
+    font-size: 14px;
+    color: #555555;
+  }
+  
